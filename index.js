@@ -16,7 +16,8 @@ co(function *() {
 }).then(function(name) {
   if (!fs.existsSync(name)) {
     fs.mkdirSync(name);
-    console.log(`Successfully created directory: ${name}`);
+    console.log('Successfully created directory');
+    console.log(`  cd ${name}`);
   } else {
     console.error(`There was a problem creating the directory`);
   }
