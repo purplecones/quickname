@@ -2,6 +2,10 @@ Don't waste time thinking about the perfect name for your project. Use `quicknam
 
 This small cli tool quickly creates your project folder with a randomly generated name.
 
+## Demo
+
+![](demo.gif)
+
 ## Usage
 ```
 $ npm install -g quickname
