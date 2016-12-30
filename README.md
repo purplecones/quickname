@@ -1,6 +1,6 @@
 Don't waste time thinking about the perfect name for your project. Use `quickname` and start coding!
 
-This small cli tool quickly creates your project folder with a randomenly generated name.
+This small cli tool quickly creates your project folder with a randomly generated name.
 
 ## Usage
 ```
