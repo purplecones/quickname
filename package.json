@@ -1,6 +1,15 @@
 {
   "name": "quickname",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "repository": "purplecones/quickname",
+  "keywords": [
+    "codename",
+    "project",
+    "unique",
+    "generator",
+    "cli",
+    "random"
+  ],
   "main": "index.js",
   "bin": {
     "quickname": "./index.js"
