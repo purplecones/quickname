@@ -1,0 +1,16 @@
+{
+  "name": "quickname",
+  "version": "0.0.2",
+  "main": "index.js",
+  "bin": {
+    "quickname": "./index.js"
+  },
+  "author": "Mirza Joldic",
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0",
+    "project-name-generator": "^2.1.3"
+  }
+}
